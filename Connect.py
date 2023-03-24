@@ -9,7 +9,8 @@ Exercises
 5. How would you detect a winner?
 """
 
-from turtle import *
+from turtle import (bgcolor, dot, goto, hideturtle, onscreenclick,
+                    tracer, update, up, setup, done)
 
 from freegames import line
 
